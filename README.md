@@ -1,1 +1,2 @@
-# music-app
+# BASIC music-app
+HTML, CSS,JS
